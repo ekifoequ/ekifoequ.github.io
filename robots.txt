@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ekifoequ.github.io/GiU/sitemap_index.txt
+Sitemap: https://ekifoequ.github.io/JxU/sitemap_index.txt
+Sitemap: https://ekifoequ.github.io/pMw/sitemap_index.txt
+Sitemap: https://ekifoequ.github.io/sAL/sitemap_index.txt
